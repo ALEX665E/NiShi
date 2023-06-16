@@ -18,8 +18,8 @@ START_IMG = getenv("START_IMG", "https://te.legra.ph/file/e6bd1a3f1fe9a62328b07.
 
 SESSION = getenv("SESSION", None)
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/indian_chatting_club_offical")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/tha_govind_op")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AARU_CHATS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AARU_CHAT")
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6020570673").split()))
 
